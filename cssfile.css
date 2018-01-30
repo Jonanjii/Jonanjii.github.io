@@ -1,0 +1,17 @@
+h3 {
+	font-style: italic;
+	font-family: "URW Chancery L", cursive;
+	color: #008B8B ;
+}
+
+body  {
+	background-color: #FFB6C1;
+	text-align: center;
+	border: 3px solid black;
+}
+
+img {
+	border-radius: 50%;
+	-webkit-filter: drop-shadow(8px 8px 10px gray);
+	filter: drop-shadow(8px 8px 10px gray);
+}
